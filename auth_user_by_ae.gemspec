@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = AuthUserByAe::VERSION
   spec.authors       = ["AEWEB"]
   spec.email         = ["sohara"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = "auth user"
+  spec.description   = "The implementation plan the user auth."
+  spec.homepage      = "https://github.com/AEWEB/auth_user_by_ae.git"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
